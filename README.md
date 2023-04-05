@@ -65,11 +65,11 @@ print("RMSE= ",rmse)
 
 ## Output:
 
-dfhead()
+df.head()
 
 ![dfhead](https://user-images.githubusercontent.com/119393556/229976934-4d91a199-2a70-471e-ac2e-4f8652d84ea0.png)
 
-dftail()
+df.tail()
 
 ![dftail](https://user-images.githubusercontent.com/119393556/229977042-8d6def67-5a4f-4662-8b58-9a90043ba4d8.png)
 
