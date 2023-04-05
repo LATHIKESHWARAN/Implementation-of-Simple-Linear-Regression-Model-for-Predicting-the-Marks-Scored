@@ -64,31 +64,41 @@ print("RMSE= ",rmse)
 ```
 
 ## Output:
-#dfhead()
+
+dfhead()
+
 ![dfhead](https://user-images.githubusercontent.com/119393556/229976934-4d91a199-2a70-471e-ac2e-4f8652d84ea0.png)
 
-#dftail()
+dftail()
+
 ![dftail](https://user-images.githubusercontent.com/119393556/229977042-8d6def67-5a4f-4662-8b58-9a90043ba4d8.png)
 
-#Array value of x
+Array value of x
+
 ![xvalue](https://user-images.githubusercontent.com/119393556/229977127-908872b4-8375-4395-90f3-b9419455531f.png)
 
-#Array value of y
+Array value of y
+
 ![yvalue](https://user-images.githubusercontent.com/119393556/229977197-3fb65de1-147b-48ab-b733-8d5f5fb95917.png)
 
-#Values of Y prediction
+Values of Y prediction
+
 ![ypred](https://user-images.githubusercontent.com/119393556/229977255-591059fe-5038-4752-a766-9bfe0ba8dfd6.png)
 
-#Array values of Y test
+Array values of Y test
+
 ![ytest](https://user-images.githubusercontent.com/119393556/229977342-82be44e2-d510-4a85-8299-2b9ff562cfc9.png)
 
-#Training set graph
+Training set graph
+
 ![train](https://user-images.githubusercontent.com/119393556/229977463-14f46551-c268-4c59-b3d3-3147b58864bb.png)
 
-#Test set graph
+Test set graph
+
 ![test](https://user-images.githubusercontent.com/119393556/229977527-9e409d07-690a-4a61-86e9-3a17fa029aa4.png)
 
-#Values of MSE, MAE and RMSE
+Values of MSE, MAE and RMSE
+
 ![mse](https://user-images.githubusercontent.com/119393556/229977591-53620b05-1dbf-40c5-a0dc-61dfa1c6a648.png)
 
 ## Result:
